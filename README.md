@@ -9,7 +9,7 @@
 
 ## Description
 
-Fog of War Fixer helps Foundry VTT](https://foundryvtt.com/) GMs manage the explored map (or "disperse the fog-of-war") in a Scene.
+Fog of War Fixer helps [Foundry VTT](https://foundryvtt.com/) GMs manage the explored map (or "disperse the fog-of-war") in a Scene.
 - To synchronize all players' explored maps (including those who aren't logged on), tap the Synchronize button in the Lighting menu. Great for players who miss a session, or to simulate sharing notes, or a party with a Telepathic Bond.
 - OR highlight a portion of the map with lights and tap the Reveal Map button to simulate a found map or gained intelligence
 - OR reset a portion of the map inadvertently shown
