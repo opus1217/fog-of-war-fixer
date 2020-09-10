@@ -1,0 +1,23 @@
+{
+  "name": "fog-of-war-fixer",
+  "title": "Fog of War Fixer",
+  "description": "A GM-helper for managing party mapping, vision, and fog-of-war:<ul><li>Synchronize everybody's fog-of-war/explored map with a single token</li><li>Reveal a section of the map before being explored</li><li>Reset a section of the map inadvertently shown</li></ul>",
+  "author" : "Spetzel",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.6.5",
+  "compatibleCoreVersion": "0.6.6",
+  "languages": [{
+    "lang": "en",
+    "name": "English",
+    "path": "lang/en.json"
+  }],
+  "esmodules" : ["modules/FogOfWarFixed.js","modules/FOWFClient.js"
+  ],
+  "styles": ["css/fog-of-war-fixer.css"],
+  "readme": "https://github.com/opus1217/fog-of-war-fixer/blob/master/README.md",
+  "bugs": "https://github.com/opus1217/fog-of-war-fixer/issues",
+  "changelog": "https://github.com/opus1217/fog-of-war-fixer/blob/master/CHANGELOG.md",
+  "manifest": "https://raw.githubusercontent.com/opus1217/fog-of-war-fixer/v0.1.0/module.json",
+  "download": "https://github.com/opus1217/fog-of-war-fixer/archive/v0.1.0.zip",
+  "url": "https://github.com/opus1217/fog-of-war-fixer"
+}

@@ -1,0 +1,7 @@
+{
+  "FOWF.Version" : "0.1.0",
+  "FOWF.Title": "Fog-of-War Fixer",
+  "FOWF.Description": "A GM-helper for managing party mapping, vision, and fog-of-war:<ul><li>Synchronize everybody's fog-of-war/explored map with a single token</li><li>Reveal a section of the map before being explored</li><li>Reset a section of the map inadvertently shown</li></ul>",
+  "FOWF.id": "fog-of-war-fixer",
+  "FOWF.BUTTON.SynchronizeMapAndFog" : "Synchronize all explored portions of the map with all players"
+}
