@@ -11,7 +11,7 @@
     "name": "English",
     "path": "lang/en.json"
   }],
-  "esmodules" : ["modules/FogOfWarFixed.js","modules/FOWFClient.js"
+  "esmodules" : ["modules/FogOfWarFixer.js","modules/FOWFClient.js"
   ],
   "styles": ["css/fog-of-war-fixer.css"],
   "readme": "https://github.com/opus1217/fog-of-war-fixer/blob/master/README.md",
