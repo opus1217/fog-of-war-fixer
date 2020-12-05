@@ -1,4 +1,5 @@
 # Fog of War Fixer
+NOT BEING ACTIVELY DEVELOPED: See Fog Manager (https://gitlab.com/tiwato/fogmanager)
 
 * **Author**: Spetzel#0103
 * **Version**: 0.1.0
